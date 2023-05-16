@@ -17,3 +17,12 @@
 
 - Completed terminal commands module.
 - Completed git basics which includes git init, git add, git status, git log, git commit.
+
+## Day 3
+
+### Date: 16-05-2023
+
+### Description:
+
+- Learned about functions in Javascript (Function as object, function expression, function declaration vs expression).
+- Completed git commits module.
