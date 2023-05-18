@@ -34,3 +34,11 @@
 ### Description:
 
 - Learned about anonymous functions, arrow functions, different syntax of arrow functions, default params/ args, REST operator, arguments keyword, nested functions in Javascript.
+
+## Day 5
+
+### Date: 18-05-2023
+
+### Description:
+
+- Didn't study.
