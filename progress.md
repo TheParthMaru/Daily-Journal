@@ -42,3 +42,31 @@
 ### Description:
 
 - Didn't study.
+
+## Day 6
+
+### Date: 19-05-2023
+
+### Description:
+
+- Didn't study.
+
+## Day 7
+
+### Date: 20-05-2023
+
+### Description:
+
+- Didn't study.
+
+## Day 8
+
+### Date: 21-05-2023
+
+### Description:
+
+- Covered following topics in Javascript:
+  - Operators
+  - Type conversion and coercion
+  - if-else statement
+  - switch case
