@@ -4,7 +4,7 @@
 
 ### Date: 14-05-2023
 
-### Description:
+### Description
 
 - Learned about functions in JS.
 - Started with Git and Github course.
@@ -13,7 +13,7 @@
 
 ### Date: 15-05-2023
 
-### Description:
+### Description
 
 - Completed terminal commands module.
 - Completed git basics which includes git init, git add, git status, git log, git commit.
@@ -22,7 +22,7 @@
 
 ### Date: 16-05-2023
 
-### Description:
+### Description
 
 - Learned about functions in Javascript (Function as object, function expression, function declaration vs expression).
 - Completed git commits module.
@@ -31,7 +31,7 @@
 
 ### Date: 17-05-2023
 
-### Description:
+### Description
 
 - Learned about anonymous functions, arrow functions, different syntax of arrow functions, default params/ args, REST operator, arguments keyword, nested functions in Javascript.
 
@@ -39,7 +39,7 @@
 
 ### Date: 18-05-2023
 
-### Description:
+### Description
 
 - Didn't study.
 
@@ -47,7 +47,7 @@
 
 ### Date: 19-05-2023
 
-### Description:
+### Description
 
 - Didn't study.
 
@@ -55,7 +55,7 @@
 
 ### Date: 20-05-2023
 
-### Description:
+### Description
 
 - Didn't study.
 
@@ -63,10 +63,59 @@
 
 ### Date: 21-05-2023
 
-### Description:
+### Description
 
 - Covered following topics in Javascript:
   - Operators
   - Type conversion and coercion
   - if-else statement
   - switch case
+
+## Day 9
+
+### Date: 22-05-2023
+
+### Description
+
+- Linux setup
+
+## Day 10
+
+### Date: 23-05-2023
+
+### Description
+
+- Linux setup
+
+## Day 11
+
+### Date: 24-05-2023
+
+### Description
+
+- OBS and other streaming services setup
+
+## Day 12
+
+### Date: 25-05-2023
+
+### Description
+
+- Planned for linux dev environment video and created thumbnail for the video but was very time consuming `:(`.
+
+## Day 13
+
+### Date: 26-05-2023
+
+### Description
+
+- POP OS POPPED. Wasn't able to provide constant fps in OBS.
+- So I had to jump to Linux mint and did setup the entire night.
+
+## Day 14
+
+### Date: 27-05-2023
+
+### Description
+
+- Started with Frontend mentor challenges and completed part 1 of it on live stream.
