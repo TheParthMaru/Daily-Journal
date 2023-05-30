@@ -119,3 +119,21 @@
 ### Description
 
 - Started with Frontend mentor challenges and completed part 1 of it on live stream.
+
+## Day 15
+
+### Date: 28-05-2023
+
+### Description
+
+- Completed part 2 of frontend mentor challenge on live stream.
+
+## Day 16
+
+### Date: 29-05-2023
+
+### Description
+
+- Enrolled in Javascript course and started with fundamentals of Javascript.
+- Started to learn VIM.
+- Created a professional github readme on live stream.
