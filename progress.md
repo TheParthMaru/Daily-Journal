@@ -137,3 +137,12 @@
 - Enrolled in Javascript course and started with fundamentals of Javascript.
 - Started to learn VIM.
 - Created a professional github readme on live stream.
+
+## Day 17
+
+### Date: 30-05-2023
+
+### Description
+
+- Revised operators, conditionals, type conversion and coercion, truthy and falsy values in JavaScript.
+- Spent too much time no setting up neovim just to understand that I should focus more on learning Javascript and later do all vim shit.
