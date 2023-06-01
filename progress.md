@@ -146,3 +146,11 @@
 
 - Revised operators, conditionals, type conversion and coercion, truthy and falsy values in JavaScript.
 - Spent too much time no setting up neovim just to understand that I should focus more on learning Javascript and later do all vim shit.
+
+## Day 18
+
+### Date: 31-05-2023
+
+### Description
+
+- Completed fundamentals part 1 of Javascript course.
