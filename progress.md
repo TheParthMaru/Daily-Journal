@@ -154,3 +154,12 @@
 ### Description
 
 - Completed fundamentals part 1 of Javascript course.
+
+## Day 19
+
+### Date: 01-06-2023
+
+### Description
+
+- Started with fundamentals part 2 of Javascript course.
+- Revised strict mode and functions.
