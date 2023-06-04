@@ -163,3 +163,19 @@
 
 - Started with fundamentals part 2 of Javascript course.
 - Revised strict mode and functions.
+
+## Day 20
+
+### Date: 02-06-2023
+
+### Description
+
+- Learned arrays and its methods.
+
+## Day 21
+
+### Date: 03-06-2023
+
+### Description
+
+- Did not study `:(`
