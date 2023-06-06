@@ -179,3 +179,20 @@
 ### Description
 
 - Did not study `:(`
+
+## Day 22
+
+### Date: 04-06-2023
+
+### Description
+
+- Travelled to Bilimora.
+
+## Day 23
+
+### Date: 05-06-2023
+
+### Description
+
+- Learned Linked List from scratch.
+- Created a linked list, created node, learned to implement prepend, append, length methods.
