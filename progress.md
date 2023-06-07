@@ -196,3 +196,11 @@
 
 - Learned Linked List from scratch.
 - Created a linked list, created node, learned to implement prepend, append, length methods.
+
+## Day 24
+
+### Date: 06-06-2023
+
+### Description
+
+- Did green screen setup so could not study much. But I coded Linked List in python which was a revision.
