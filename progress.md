@@ -204,3 +204,12 @@
 ### Description
 
 - Did green screen setup so could not study much. But I coded Linked List in python which was a revision.
+
+## Day 25
+
+### Date: 07-06-2023
+
+### Description
+
+- Completed singly linked list with all the relevant methods on stream in python.
+- Started with Javascript objects.
