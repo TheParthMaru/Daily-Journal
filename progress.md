@@ -213,3 +213,12 @@
 
 - Completed singly linked list with all the relevant methods on stream in python.
 - Started with Javascript objects.
+
+## Day 26
+
+### Date: 08-06-2023
+
+### Description
+
+- Started to learn linked list in Java. (Ik IK repeated work :( )
+- Completed Objects in Javascript.
