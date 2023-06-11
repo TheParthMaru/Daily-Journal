@@ -222,3 +222,20 @@
 
 - Started to learn linked list in Java. (Ik IK repeated work :( )
 - Completed Objects in Javascript.
+
+## Day 27
+
+### Date: 09-06-2023
+
+### Description
+
+- Learned bit of multi-threading.
+
+## Day 28
+
+### Date: 10-06-2023
+
+### Description
+
+- Started with Harkirat's Cohort.
+- Solved problems in JS.
