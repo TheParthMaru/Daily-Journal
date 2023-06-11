@@ -239,3 +239,13 @@
 
 - Started with Harkirat's Cohort.
 - Solved problems in JS.
+
+
+## Day 29
+
+### Date: 11-06-2023
+
+### Description
+
+- Tried various neovim setups like Nvchad, astrovim, etc.
+
