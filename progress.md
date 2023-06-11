@@ -248,4 +248,5 @@
 ### Description
 
 - Tried various neovim setups like Nvchad, astrovim, etc.
-
+- Solved basic problems using JS.
+- Completed Objects Method lecture in JS.
