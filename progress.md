@@ -209,10 +209,9 @@
 
 ### Date: 07-06-2023
 
-### Description
+### DescriptionLearned bit of multi-threading.
 
-- Completed singly linked list with all the relevant methods on stream in python.
-- Started with Javascript objects.
+- Solved problems in JS.
 
 ## Day 26
 
@@ -240,7 +239,6 @@
 - Started with Harkirat's Cohort.
 - Solved problems in JS.
 
-
 ## Day 29
 
 ### Date: 11-06-2023
@@ -250,3 +248,12 @@
 - Tried various neovim setups like Nvchad, astrovim, etc.
 - Solved basic problems using JS.
 - Completed Objects Method lecture in JS.
+
+## Day 30
+
+### Date: 12-06-2023
+
+### Description
+
+- Completed fundamentals 2 module of Udemy Javascript Course.
+- Solved many problems from Problem Solving Mastery Repo using Javascript.
