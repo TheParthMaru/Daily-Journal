@@ -257,3 +257,35 @@
 
 - Completed fundamentals 2 module of Udemy Javascript Course.
 - Solved many problems from Problem Solving Mastery Repo using Javascript.
+
+## Day 31
+
+### Date: 13-06-2023
+
+### Description
+
+- Continued solving problems with Javascript.
+
+## Day 32
+
+### Date: 14-06-2023
+
+### Description
+
+- Solved problems on Arrays from GFG.
+
+## Day 33
+
+### Date: 15-06-2023
+
+### Description
+
+- Did nothing.
+
+## Day 34
+
+### Date: 16-06-2023
+
+### Description
+
+- Solved problems on Arrays from GFG.
