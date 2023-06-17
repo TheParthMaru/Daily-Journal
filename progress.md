@@ -289,3 +289,11 @@
 ### Description
 
 - Solved problems on Arrays from GFG.
+
+## Day 35
+
+### Date: 17-06-2023
+
+### Description
+
+- Solved problems on Arrays from GFG.
