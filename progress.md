@@ -297,3 +297,11 @@
 ### Description
 
 - Solved problems on Arrays from GFG.
+
+## Day 36
+
+### Date: 18-06-2023
+
+### Description
+
+- Didn't study anything as it was a sunday so decided to take a rest.
