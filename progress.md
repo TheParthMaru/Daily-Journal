@@ -305,3 +305,29 @@
 ### Description
 
 - Didn't study anything as it was a sunday so decided to take a rest.
+
+## Day 37 - 47
+
+### Date: 19-06-2023 to 29-06-2023
+
+### Description
+
+- Solved problems in DSA and went to Goa.
+- Did not log my daily progress.
+
+## Day 48
+
+### Date: 30-06-2023
+
+### Description
+
+- Started with recursion and solved very basic problems on recursion.
+
+## Day 49
+
+### Date: 01-07-2023
+
+### Description
+
+- Continued problem solving in Recursion.
+- Learned about react in Harkirat's Cohort.
